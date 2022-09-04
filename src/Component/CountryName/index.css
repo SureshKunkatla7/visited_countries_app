@@ -1,0 +1,27 @@
+.country-list {
+  padding: 20px;
+  border-bottom: 1px solid #334155;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.country-name {
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.visit-button {
+  background-color: #3b82f6;
+  padding: 5px 20px;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  border-radius: 3px;
+}
+
+.vistited-text {
+  color: #94a3b8;
+  margin-right: 10px;
+  font-size: 14px;
+}

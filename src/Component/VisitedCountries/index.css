@@ -1,0 +1,31 @@
+.country-card {
+  width: 260px;
+  background-color: #1f1f2f;
+  margin: 0px 6px 6px 0px;
+}
+
+.country-img {
+  width: 100%;
+  margin: 0;
+}
+
+.countryItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin: 0;
+}
+
+.remove-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.country-text {
+  color: #ffffff;
+}
